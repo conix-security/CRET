@@ -16,10 +16,6 @@ How to use it
 =============
 Just launch the executable :]
 
-Authors
-=======
-Adrien Chevalier
-
 Improvements
 ============
 - fix the repeating input problem
