@@ -16,6 +16,8 @@ How to use it
 =============
 Just launch the executable :]
 
+To compile the project, first compile the "cretsvc" project and use the resulting executable as a resource for the "cret" project.
+
 Improvements
 ============
 - fix the repeating input problem
